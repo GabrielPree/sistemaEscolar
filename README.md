@@ -83,10 +83,18 @@ SistemaEscolar/
 
 ## Instalação
 
+### Download do Executável
+
+Baixe a versão mais recente do sistema através da página de releases:
+
+https://github.com/GabrielPree/sistemaEscolar/releases
+
+---
+
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/sistema-escolar.git
+git clone https://github.com/GabrielPree/sistema-escolar.git
 cd sistema-escolar
 ```
 ### 2. Criar ambiente virtual (recomendado)
@@ -100,8 +108,11 @@ pip install -r requirements.txt
 ```
 ### 4. Executar o sistema
 ```
-4. Executar o sistema
+python SistemaEscolar.py
 ```
+
+> Recomendado para usuários finais: utilize o executável disponível na página de releases.
+
 ---
 
 ## Controle de Acesso
